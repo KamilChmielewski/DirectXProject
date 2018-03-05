@@ -1,0 +1,23 @@
+﻿  Application.cpp
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.h(19): warning C4324: 'CameraTest': structure was padded due to alignment specifier
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(7): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(81): warning C4239: nonstandard extension used: 'argument': conversion from 'DirectX::XMFLOAT3' to 'DirectX::XMFLOAT3 &'
+  f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(81): note: A non-const reference may only be bound to an lvalue
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(85): warning C4239: nonstandard extension used: 'argument': conversion from 'DirectX::XMFLOAT3' to 'DirectX::XMFLOAT3 &'
+  f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(85): note: A non-const reference may only be bound to an lvalue
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(98): warning C4316: 'CameraTest': object allocated on the heap may not be aligned 16
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(191): warning C4101: 'hr': unreferenced local variable
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\application.cpp(198): warning C4101: 'hr': unreferenced local variable
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\camera2.h(8): warning C4505: 'Identity4x4': unreferenced local function has been removed
+  CameraTest.cpp
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.h(19): warning C4324: 'CameraTest': structure was padded due to alignment specifier
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.cpp(3): warning C4100: 'UP': unreferenced formal parameter
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.cpp(3): warning C4100: 'AT': unreferenced formal parameter
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.cpp(3): warning C4100: 'EYE': unreferenced formal parameter
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.cpp(29): warning C4458: declaration of 'position' hides class member
+  f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.h(19): note: see declaration of 'CameraTest::position'
+f:\year 2\paul\mangers test\shader, texture manager\directx manager\directx mess about\dx11 framework 2017\cameratest.cpp(29): warning C4100: 'position': unreferenced formal parameter
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> F:\Year 2\Paul\Mangers Test\Shader, Texture Manager\DirectX Manager\DirectX mess about\DX11 Framework 2017\Debug\DX11 Framework.exe
